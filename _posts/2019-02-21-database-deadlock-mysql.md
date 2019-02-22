@@ -1,16 +1,14 @@
 ---
 layout: post
-title: Database deadlock - The dark world of MySQL
-description: How to solve - Deadlock found when trying to get lock - error in MySql
+title: Deadlock - The dark world of MySQL
+description: How we solved an interesting deadlock error in MySql
 ---
 
 {{ page.title }}
 ================
 
 <p class="meta">
-    Published on 21/Feb/2019 <br/>
     Saptarshi Chatterjee 
-    
 </p>
 
 ---
@@ -231,7 +229,7 @@ TOKEN.created_by => USER.id
 ```
 This means `TOKEN` table has a foreign key relationship with `USER` table. In this relationship `USER` is parent and `TOKEN` is child.
 
-So when 2 requests hit the server concurrently to generate token for the same user, both reach line-6 at the same time and and inserts a row each in `TOKEN` table. While doing this, MYSql identifies that there is a FKEY relationship with USER table. So to protect integrity it acquires `SHARED` lock on that user's row in `USER` table. 
+So when 2 requests hit the server concurrently to generate token for the same user, both reach line-6 at the same time and and insert a row each in `TOKEN` table. While doing this, MYSql identifies that there is a FKEY relationship with USER table. So to protect integrity it acquires `SHARED` lock on that user's row in `USER` table for each request. 
 
 Now one of the requests advances to line-8 and wants to update the same row in `USER` table with current time. For that it attempts to upgrade it's `SHARED` lock on `USER` table to `EXCLUSIVE` lock. But as request-2 is already holding a `SHARED` lock it waits for that lock to be released. In the meantime, request-2 advances to line-8 and attempts to acquire `EXCLUSIVE` lock which is already held by request-1. Now both are stuck .
 
@@ -242,21 +240,21 @@ Thankfully at this point MySql appears from sky and detects the situation as a d
 ### It was a nice story, but how to solve it and move forward?
 Here are some of the solutions one can go for: 
 
-1. **Remove referential integrity**
+**1. Remove referential integrity**
 
 Remove referential integrity in the database. But purists like me won't like this as database sanity may go south after this.
 
-2. **Retry transaction**
+**2. Retry transaction**
 
 If failure is due to deadlock retry the transaction. Application frameworks should provide this functionality.
 
-3. **Lock tables while updating**
+**3. Lock tables while updating**
 
 Lock the update in child table by issuing SELECT for UPDATE. But it can impact performace significantly as all requests shall get serialized at this statement.
 
-4. **Avoid the update in parent table after child**
+**4. Avoid the update in parent table after child**
 
-Avoid the update in parent table when child table is already under attack. In our case we can avoided update in USER table at line-8 by updating it just after line-3. 
+Avoid the update in parent table when child table is already under attack. In our case we can avoid update in USER table at line-8 by performing this update just after line-3. 
 
 That's all for today. Hope you liked it. :)
 
