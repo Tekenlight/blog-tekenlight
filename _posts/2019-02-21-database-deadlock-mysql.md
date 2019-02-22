@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Database deadlock - The dark world of MySQL
+description: How to solve - Deadlock found when trying to get lock - error in MySql
 ---
 
 {{ page.title }}
