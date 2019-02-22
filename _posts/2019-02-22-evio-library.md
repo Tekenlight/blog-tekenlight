@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: EVIO - An event based IO library for unix
 ---
 
