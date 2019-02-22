@@ -19,7 +19,8 @@ For most of our microservices, we are using MySQL as our primary DB Server. In t
 
 The story started one day with our SSO server logging errors related to deadlock. Here is the stacktrace-
 ```
-Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: Deadlock found when trying to get lock; 
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLTransactionRollbackException: 
+Deadlock found when trying to get lock; 
 try restarting transaction
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
