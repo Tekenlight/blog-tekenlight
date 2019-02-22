@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Deadlock - The dark world of MySQL
 description: How we solved an interesting deadlock error in MySql
 ---
