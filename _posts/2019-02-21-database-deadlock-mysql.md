@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: MySQL - Navigating throught deadlock minefield
+title: MySQL - Navigating through deadlock minefield
 description: How we solved an interesting deadlock error in MySql
 ---
 
