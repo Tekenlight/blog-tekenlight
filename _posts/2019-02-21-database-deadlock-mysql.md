@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Deadlock - The dark world of MySQL
+title: MySQL - Navigating throught deadlock minefield
 description: How we solved an interesting deadlock error in MySql
 ---
 
@@ -238,7 +238,7 @@ Thankfully at this point MySql appears from sky and detects the situation as a d
 
 ---
 
-### It was a nice story, but how to solve it and move forward?
+### How to solve it and move forward?
 Here are some of the solutions one can go for: 
 
 **1. Remove referential integrity**
