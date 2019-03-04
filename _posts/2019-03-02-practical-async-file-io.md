@@ -32,7 +32,7 @@ Solution to above problem is attempted by frameworks that implement asynchronous
 One limitation in these frameworks is that both read and write file operations are offloaded to background
 threads. There is a significane difference between the read and write operations.
 
-![Read and Write operations in File IO][image1]
+![Read and Write operations in File IO](/images/File-IO-Data-flow.jpg)
 
 **In case of read operation**: the source of data is the disk and the consumer is the worker thread. It is a case of very slow producer and a fast consumer. Once the request is submitted to the producer of data, the consumer (the thread) can do other tasks while the data is being fetched.
 
@@ -55,4 +55,3 @@ Feedback/Comments/suggestions as well as contributions on this are welcome.
 </p>
 
 
-[image1][images/File-IO-Data-flow.jpg]
