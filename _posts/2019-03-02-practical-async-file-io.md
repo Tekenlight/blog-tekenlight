@@ -19,7 +19,7 @@ Speed of execution and Optimal use of computing resources are the main goals of 
 Time to access memory varies based on the type of memory, it increaes in the order of L1, L2, L3 cache, Primary memory,
 Secondary memory (disk access inclusive of SSD disks). Disk access is is several orders of magnitude slower than memory access milliseconds for HDD and microseconds for SSD vs nano seconds for memory (in modern CPU).
 
-Buffering is implemented by standard libraries (libc) as well as OS (buffered IO), in order to improve the data access speed by programs. The main assumption in this scheme is the principle of [**Temporal locality of reference**][https://en.wikipedia.org/wiki/Locality_of_reference] (data accessed once will, with a high likelihood, find itself accessed again in the near future). 
+Buffering is implemented by standard libraries (libc) as well as OS (buffered IO), in order to improve the data access speed by programs. The main assumption in this scheme is the principle of [**Temporal locality of reference**](https://en.wikipedia.org/wiki/Locality_of_reference) (data accessed once will, with a high likelihood, find itself accessed again in the near future). 
 
 It is important to note that the principle of temporal locality of reference, does not become beneficial in all circumstances.
 Server side programs for example proces incoming data file via *HTTP, FTP*, or they generate output to files in case of, reports, logs, files to be sent to other systems. In all these cases, data once read and processed or data once written to disk will not be refered again. It will be a waste of memory to hold the pages from these files in cache.
@@ -42,7 +42,7 @@ There is necessity of a file handling library, which solves both the problems me
 1. Avoiding OS buffer for files not accessed again and 
 2. Implement the desirable async IO strategy for read and write.
 
-Tekenlight is attempting this approach through a file IO library called [efio][https://github.com/Tekenlight/efio], this is still going through various stages of development, review and test. The library is planned to be available through liberal open source licensing policy. 
+Tekenlight is attempting this approach through a file IO library called [efio](https://github.com/Tekenlight/efio), this is still going through various stages of development, review and test. The library is planned to be available through liberal open source licensing policy. 
 
 ---
 
