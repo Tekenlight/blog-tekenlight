@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Navigating through MySQL deadlock minefield
+title: A practical approach to non blocking file IO
 description: A practical approach to non blocking file IO.
 ---
 
