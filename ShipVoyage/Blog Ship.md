@@ -71,7 +71,7 @@ many fields were missing and NA.
 Therefore, we had to filter out the NULL fields for proper analysis of the data
 set.
 
-**PLAN OF ATTACK:**
+**Tools Used:**
 
 Language Used For Analysis: Python
 
