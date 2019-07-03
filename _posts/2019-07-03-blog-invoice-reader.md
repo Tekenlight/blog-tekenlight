@@ -5,7 +5,7 @@ title: Invoice Reader
 description: Used to read an Invoice and convert it to readable text format.
 ---
 
-{{Invoice Reader}}
+{{page.title}}
 ================
 
 <p class="meta">
@@ -50,7 +50,7 @@ The Function work is completed and now the function is ready to use.
 Feedback/Comments/suggestions, as well as contributions on this blog are
 welcome.
 
-<p class="meta"\>
+<p class="meta">
 Published on 03/July/2019
 </p>
 
