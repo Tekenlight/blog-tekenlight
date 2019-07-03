@@ -267,7 +267,7 @@ Australia.
 This is because of the high turbulence of wind during voyages which eventually
 lead to the loss of many ships and the crew members.
 
-**1800-1830**
+**1800-30**
 
 ![1800-30](https://lh5.googleusercontent.com/oRfN4C00JMdNRsRthvCaCT9R2Jy_YlnqWDy2f33jivY_YQbfLXHxFfE1NkNxidQhsMcw7cRktrNdl_4CHVKmftfzMrx5y-iuHb4UbsusSaXfxQtmR8vvL2Fv3yJ-dA-jQcleSFcb)
 
