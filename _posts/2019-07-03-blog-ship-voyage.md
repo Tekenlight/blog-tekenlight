@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-title: Various Insights from ship data b/w 1750-1850
+title: Insights from ship data b/w 1750-1850
 description: Movements, Pirate attacks, wind flows and other insights
 ---
 
-{{Insights from ship voyages b/w 1750-1850}}
+{{page.title}}
 ================
 
 <p class="meta">
@@ -424,7 +424,7 @@ one of the nearest kingdoms from their native land.
 Feedback/Comments/suggestions, as well as contributions on this blog are
 welcome.
 
-<p class="meta"\>
+<p class="meta">
 Published on 03/July/2019
 </p>
 
