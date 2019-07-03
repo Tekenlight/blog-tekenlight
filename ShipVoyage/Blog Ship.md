@@ -52,7 +52,7 @@ on this page (scroll down to the table that starts with "Field abbreviation").
 It includes 280,280 observational records of ship locations weather data, and
 other associated information.
 
-**Source**:
+**Source:**
 
 https://www.kaggle.com/cwiloc/climate-data-from-ocean-ships
 
