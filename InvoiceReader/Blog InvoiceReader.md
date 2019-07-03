@@ -21,8 +21,10 @@ Language Used For Analysis: Python
 
 **Libraries Used:**
 
-1.NumPy
-2. PIL(Python Imaging Library) offers several standard procedures for image manipulation.             These include:
+ 1. NumPy
+
+2. PIL(Python Imaging Library) offers several standard procedures for image manipulation.    
+These include:
 •	per-pixel manipulations,
 •	masking and transparency handling,
 •	image filtering, such as blurring, contouring, smoothing, or edge finding,
