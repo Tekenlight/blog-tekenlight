@@ -36,7 +36,7 @@ These include:
 
 4. Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images. Python-tesseract is a wrapper for Google's Tesseract-OCR Engine.
 
-### Implementation:
+## Implementation:
 
 All the above mentioned libraries were imported and image module was imported from PIL. Started with defining a function which take the path of the image as its input. OpenCV library is used to read and convert the image to gray scale. A Kernel was created which serves as a feature to the dilation and erosion. Then “Dilation and Erosion” were applied to remove noises from the image and the new image was saved by the name of removed_noise. Then a threshold was applied to the image with only black and white and this change was saved by the name of thres. Then comes the job of pytesseract to get the text from the images. The previous steps of noise removal was necessary as pytesseract doesn’t work well with noisy images. Pytesseract is then used to convert the image words to string and the string obtained is then saved to a text file by the name of new_days.
 The Function work is completed and now the function is ready to use.
