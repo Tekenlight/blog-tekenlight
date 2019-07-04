@@ -52,7 +52,7 @@ on this page (scroll down to the table that starts with "Field abbreviation").
 It includes 280,280 observational records of ship locations weather data, and
 other associated information.
 
-**Source**:
+**Source:**
 
 https://www.kaggle.com/cwiloc/climate-data-from-ocean-ships
 
@@ -110,7 +110,7 @@ follows:
 
 **1750-79**
 
-![1750-79](https://lh5.googleusercontent.com/tf-W1bOZ4AWeFW0yPIDpNfIY8RApBCQtp4XatRLX6PisTHMJBqgDBCxrp7CCtnL0NzXW1-kR4MXzjFKArhN85uXJlmVOnz9VOSypRoCIIKYJlyfAo0wBC_x-ai__ynqKk9jAQ5Rt)
+![1750-79](/images/2019-07-03-ShipVoyage-Photos/British-1750-79.PNG)
 
 We can clearly see that the British ship route in the 1750-79 is mainly focused
 on India as they were the rulers at that point of time. They took the fastest
@@ -121,7 +121,7 @@ of British ships in these areas too.
 
 **1780-99**
 
-![1780-99](https://lh3.googleusercontent.com/UpPYdxl4fptsKwnrOPBgxhuW7yjh9YTQZw7ywOzmS-5iWjB8NU30F9H9Xb_Y4BS42Df22RfgrvTcLWrCJ8yYFa0q_z8hwiQlH70uuA1-SOG6ePeikLKxUvU_KpZVdWsUOaGOeHuW)
+![1780-99](/images/2019-07-03-ShipVoyage-Photos/British-1780-99.PNG)
 
 We can see that as they ruled India till 1947 so there is no significant change
 in their route during this period too.
@@ -137,7 +137,7 @@ from the British Rule were transported to these places.
 
 **1800-30**
 
-![1800-30](https://lh5.googleusercontent.com/L9G-EFj36fRrAfvWBMiXptE_IE2AE3nzly7Ia0Qj-Ty8H4J9J-xmgLcwDjZEQCkg_8WR0KBP7Ml-IPYbZof7kAUfSjun_pgNBgNsFwA8srMTXjXiSjnjxg1JzP2xy3632OELRtOz)
+![1800-30](/images/2019-07-03-ShipVoyage-Photos/British-1800-30.PNG)
 
 During this period, Britishers were basically focused on India and South Africa
 as they were ruling these countries.
@@ -151,7 +151,7 @@ Britisher went to a few other places too for transporting the captives.
 
 **1770-99**
 
-![1770-99](https://lh6.googleusercontent.com/6qQckzCNQzPZOvzxqdu94tDkyifbrRhhgq6pCFZ4QVzsOzqVuFgIDJ0nT5gG9T-mQeBnHfSoQX71f6WgnXEZpisHPr8LZJlPioj1VeOMwrTYApehlPnUYyuDKwj6tgFKImUH7V2v)
+![1770-99](/images/2019-07-03-ShipVoyage-Photos/dutch-1770-89.PNG)
 
 As Dutch invaded the cape of good hope, part of South America, the golden coast
 of Africa and some part of southeastern Asia so their route is just based on
@@ -160,9 +160,10 @@ their colonial rules.
 They captured parts of south-east Asia, parts of America, Africa and the
 Caribbean. So, on this basis, we can easily interpret the above ship route.
 
-**1800-30**
+**1800-29**
 
-![1800-30](https://lh4.googleusercontent.com/R67MZFeS_-MUwntl_s_N0oZPhjASuw15z3G588vSoiP8R3mxoJ23kI3GV1TO3KTbGUPbXwvl74i74cAITwJ9gZZ9SUGS_nOQZcmZ7WtVAaUTrIh_BkmA9Z31Td03EyHL2VTVJGtB)
+![1800-29](/images/2019-07-03-ShipVoyage-Photos/1800-29-Dutch.PNG)
+
 
 In the 1790s there were disputes between British and Dutch. The Dutch rulers
 were sent off by the Britishers and thus during this period, there was no
@@ -174,7 +175,8 @@ they traded with Australia too during this time.
 
 **1830-50**
 
-![1830-50](https://lh3.googleusercontent.com/Np11qBp8DLCIsveJQTuUoMrFOzK3lklPNeXT14-LhmDGc5vdERH44820CP4A-UO2pSbTIKg4Oz7xxIDQYI73QBgRcd6j_ugg7RsokB2aoxqLEMbX0I658jrcDGpiow9rI3ELSETj)
+![1830-50](/images/2019-07-03-ShipVoyage-Photos/Dutch-1830-55.PNG)
+
 
 There is no significant change just they again started their trade with colonial
 India and the movement of the ships is more often seen near the southeastern
@@ -187,7 +189,8 @@ be due to the industrialisation during the mid-19th century.
 
 **1750-79**
 
-![1750-79](https://lh3.googleusercontent.com/OsyZB_VyDS9yVauZ3phhaX5TctM8NMdV4Z8fzqr1V8u6iW5nvRqTwJ9LVYi2qAd9dYvL3XnllVsb0ZqDqJlCgHtOYxkZp6mUzrFhAwi6o4nHL-L8Ax3I1N0aJWm0yCsp5daQ0aSs)
+![1750-79](/images/2019-07-03-ShipVoyage-Photos/French-1750-79.PNG)
+
 
 The French empire during this time was in some parts of North America, South
 America, Dominican Republic, Africa and India.
@@ -199,16 +202,18 @@ they had at that point of time.
 We can see that no ship sailed to India at this point of time and only a few
 ships sailed to South America and Africa.
 
-**1780-1800**
+**1780-99**
 
-![1780-1800](https://lh5.googleusercontent.com/xG3fJWHQN8rx4b-z0LYHGDg6Ng3uFfSjI38HovvXlt-JtFl9iLleqnqKXwTwQBqZxgz0fmFnyD0ABF0ajdABkf07u2qb3JZUjgd1gVTeE_t75O2Equ2uiwL5ddBK4LY-CEgQuvzp)
+![1780-99](/images/2019-07-03-ShipVoyage-Photos/French-1780-99.PNG)
+
 
 No Significant change during this period. Just the frequency of the ship’s
 voyages increased during this period.
 
 **1800-20**
 
-![1800-20](https://lh6.googleusercontent.com/hEQcrpwDxrPTTkz6ZB42JmSnQjPYMmA25u5RVBCBx1t-sehaBk83_nTUt9IOIEJpwHMmVBjBqTnCfuN3dwXOyF726rgKeMLUgNxoTj-GLpZJf_hL-Fjwa7TL_0hQczWJ1Uc4T2tN)
+![1800-20](/images/2019-07-03-ShipVoyage-Photos/French-1800-20.PNG)
+
 
 As the French Lost the North American empire during the end of the 18th century,
 thus they have changed their route to India and to the cape of good hope.
@@ -221,7 +226,8 @@ wealth during the wars.
 
 **1760-70**
 
-![1760-70](https://lh6.googleusercontent.com/aac-EEokRQkfDhCJHmlHqZgU5q1w9eEk_pUxXQHDGnELQIL6Z9txx1lUkW5ImhNblnlsozSa4BN46wC7FskewjE7bJQ8Y0pI7HEcMrD-289R0CAXbxuWV02cgeRPtHpDmvzJs2oY)
+![1760-70](/images/2019-07-03-ShipVoyage-Photos/Spain_1760-70s.PNG)
+
 
 During this period, the Spanish empire consisted of the western part of South
 America, the southern part of North America and the Philippines.
@@ -234,7 +240,7 @@ America.
 
 **1770-80**
 
-![1770-80](https://lh4.googleusercontent.com/ZQtcmVuXLAFk5NwzEeDYKWJu-6_H7Trsxj9V3wuTU-nSxJEW5Z8n6N66HlqKkCUh5eVqcF2P-D5-CH64X0525e-JmE7xw5cBhjg9CpDf6swjugY_3IBJ-f-lCBrQj4QmqmokRWB9)
+![1770-80](/images/2019-07-03-ShipVoyage-Photos/Spain_1770-80s.PNG)
 
 The Spanish had established a huge empire in southern and northern America till
 the 1770s, thus the major voyages are to these colonies regarding trade and
@@ -242,9 +248,9 @@ other things.
 
 The frequency of the voyages to the Philippines had also increased.
 
-**1780-89**
+**1780-90**
 
-![1780-89](https://lh5.googleusercontent.com/KvSbY024gudhp_FgxY1HkKPlh5k5VbCPYGyaI4MTqgeC9RvX5Vj6LjucxedWyycHBHMqlHj3tLJxYuFwojImio0vSOdVzxp3nktH3F-ZB2jWUcUx2sF2cCPAVQ6VVyxE4pQwpzjy)
+![1780-90](/images/2019-07-03-ShipVoyage-Photos/Spain-1780-90.PNG)
 
 We can see that Spanish change their path to the Philippines rather going
 through the cape of good hope. This is because at that time most of the pirate
@@ -258,7 +264,8 @@ of North America.
 
 **1790-99**
 
-![1790-99](https://lh4.googleusercontent.com/WygRjlwvwIqvKcQbOiMjloWdOs4TWDi9Rj2IGenD1tbUkLEyjNOaO7kN22iICvkUKZrqzdLInnGkWfKcn121NcXzxjnmOrdGaCjlcns2O82Ft47I2hquLJJABQuSpaRc_ljiUbG\_)
+![1790-99](/images/2019-07-03-ShipVoyage-Photos/Spain-1790-1800.PNG)
+
 
 We can see that Spanish change their path to the Philippines rather going from
 above the continent of Australia, they went from under the continent of
@@ -269,7 +276,7 @@ lead to the loss of many ships and the crew members.
 
 **1800-1830**
 
-![1800-30](https://lh5.googleusercontent.com/oRfN4C00JMdNRsRthvCaCT9R2Jy_YlnqWDy2f33jivY_YQbfLXHxFfE1NkNxidQhsMcw7cRktrNdl_4CHVKmftfzMrx5y-iuHb4UbsusSaXfxQtmR8vvL2Fv3yJ-dA-jQcleSFcb)
+![1800-30](/images/2019-07-03-ShipVoyage-Photos/Spain-1800-1830.PNG)
 
 As Spain lost all their kingdom in the north and south America during the early
 1800s. Thus, we can see that no ship was going to those continents and thus the
@@ -280,7 +287,7 @@ time.
 
 **1830-1850**
 
-![1830-50](https://lh5.googleusercontent.com/xe9OeBdb4ANTiSmFq633X74ZGihyYNpCCQPTEFZ_whP49eE8M-GBcpWGftGnm6YK3k6WBl1IwZ-6djAGkyFvE77YFIAVoN28p-u_ROQ8SxtOE8Twf_Hk2gTfwAygosgxgELXS57O)
+![1830-50](/images/2019-07-03-ShipVoyage-Photos/Spain-1830-1850.PNG)
 
 Still, there was a small place in Africa where the Spanish ruled. Thus, we can
 see the routes in the western part of Africa.
@@ -307,7 +314,7 @@ at that place at a given time. This information can be related to find the
 trends in the extreme climatic condition over an area for a given period of
 time.
 
-![Wind](https://lh6.googleusercontent.com/Dc_LBPDrEk1HdyPu3xUgkIuUBnvoF3SYfIDN2QB8YtzzL8WR1Kmv6GfNAfeZJY0a24bVj0vMW1loSdNIsb_GnVub0ZZAtu5-fKp2t1qLEcuf2FbRFGHOPgORt9c_mmDyWl3bivRQ)
+![Wind](/images/2019-07-03-ShipVoyage-Photos/wind.PNG)
 
 We can see that the frequency of strong winds near the equatorial line is high.
 The trade winds are the prevailing pattern of surface winds from the east toward
@@ -332,7 +339,7 @@ winds become; the more rainfall can be expected in the neighbouring landmasses.
 
 ### PIRACY ANALYSIS:
 
-![Piracy](https://lh3.googleusercontent.com/q9i8KY24Kt7A7H0pjtNEyAJGtfqlQLjbx4WyOoFSfduU3LisuLeVKt6ij0RoJw0qo9qpizqW7neiM2i4BNOeaoQOS7d1GGwlJ5T5jQoNjaUfZWKPcJnFR1JJKWJxPgulmuEqSRf0)
+![Piracy](/images/2019-07-03-ShipVoyage-Photos/Vis_Piracy.PNG)
 
 Piracy attacks were occasional in the 18th century. In the war and fights Header
 files had the info of the fights that occurred in that era. We analysed the
@@ -370,7 +377,7 @@ countries and their variability over time.
 
 **1. INDIA**
 
-![India](https://lh5.googleusercontent.com/zrtnFRWPj4wjN6awXlodrijZKdyd6cI44cYWflWqrRUrTakltHSNPM55RWa-CJOy3AquY7wGeEx44JmBwOPvRDlxGG66PaZh2_q9NWqMum_Tqbg3E0boqVMppBWdY8rtBTvBG6fG)
+![India](/images/2019-07-03-ShipVoyage-Photos/fig_2.png)
 
 As India was under British Control since early 18th century thus we can see the
 percentage of the British ship on Indian port is maximum. There is very little
@@ -380,7 +387,7 @@ French didn’t come to India during 1750-1850. It is quite clear that in the
 
 **2. North America**
 
-![NA](https://lh3.googleusercontent.com/CXKVDahUATmcR7s2ETUkm7tDxGM4UdYL5FKwmKjROi9D4d9er26iDwXk9Ljio8QXKTCT35a50lyXl4Tb5IVtuSaaCRXarUaokWsVhGVSVNF8w36IkYzSX34kaR07VIOclibCXcJp)
+![NA](/images/2019-07-03-ShipVoyage-Photos/NA2.png)
 
 We can see the ship routes of the French till 1763. They were ruling over North
 America from the end of the 17th century till 1763 as they lost the seven years
@@ -403,7 +410,7 @@ all the wars and lost their kingdom in these areas.
 
 **3. South America**
 
-![SA](https://lh4.googleusercontent.com/77k1rjNTENigMdd_XKgk50GExOsKhiqqPL3PRn170RirvfSplB1uxOaUl7sGfVkWbqMbVWVAll27MvoHcQS806OLpHkareRByRW0m_9KYvKH8m0q9xb_sCACvtzdFCNzDy5yQZ6x)
+![SA](/images/2019-07-03-ShipVoyage-Photos/S2.png)
 
 The Spanish ruled over most of the north-eastern part of South America thus we
 can see maximum no of Spanish ships coming to this continent till 1813 as they
@@ -426,4 +433,5 @@ welcome.
 <p class="meta">
 Published on 03/July/2019
 </p>
+
 
