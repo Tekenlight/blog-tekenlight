@@ -349,8 +349,7 @@ The piracy rate near England, France, Spain and the Netherlands was also too
 high as they were the major rulers of different countries in the world and thus
 had to sail more ships than a usual country.
 
-### INTERNATIONAL TRADE RELATIONS OF EUROPEAN COUNTRIES (MAJORLY THE BRITISH,
-FRENCH AND THE DUTCH) WITH DIFFERENT COUNTRIES WITH TIME:
+### INTERNATIONAL TRADE RELATIONS OF EUROPEAN COUNTRIES (MAJORLY THE BRITISH,FRENCH AND THE DUTCH) WITH DIFFERENT COUNTRIES WITH TIME:
 
 **ALGORITHM FOR ANALYSIS:**
 
